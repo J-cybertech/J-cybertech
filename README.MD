@@ -1,14 +1,15 @@
+      ██╗ ██████╗ ███████╗███████╗    ██████╗ ███████╗     ██╗███████╗
+      ██║██╔═══██╗██╔════╝██╔════╝    ██╔══██╗██╔════╝     ██║██╔════╝
+      ██║██║   ██║███████╗█████╗      ██║  ██║█████╗       ██║█████╗  
+ ██   ██║██║   ██║╚════██║██╔══╝      ██║  ██║██╔══╝  ██   ██║██╔══╝  
+ ╚█████╔╝╚██████╔╝███████║███████╗    ██████╔╝███████╗╚█████╔╝███████╗
+  ╚════╝  ╚═════╝ ╚══════╝╚══════╝    ╚═════╝ ╚══════╝ ╚════╝ ╚══════╝
+
+                Jose De Jesus
+        Building • Securing • Automating
 # 👋 Hi, I'm J D
 
-![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge\&logo=comptia\&logoColor=white)
-![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge\&logo=comptia\&logoColor=white)
-![Microsoft AZ-900](https://img.shields.io/badge/Microsoft-AZ--900-blue?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-Administration-0078D6?style=for-the-badge\&logo=windows\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![UniFi](https://img.shields.io/badge/UniFi-Networking-0559C9?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=for-the-badge\&logo=powershell\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+
 
 IT Support Technician | Computer Technician | Aspiring Cybersecurity Professional
 
