@@ -135,7 +135,7 @@ I learn best by **doing** — labs, home networks, certifications, and real-worl
 
 ## 📫 Connect With Me
 
-* LinkedIn: (https://www.linkedin.com/in/jose-dejesus)
+* [LinkedIn](https://www.linkedin.com/in/jose-dejesus)
 
 
 ---
