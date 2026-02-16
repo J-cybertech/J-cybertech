@@ -61,7 +61,7 @@ I learn best by **doing** — labs, home networks, certifications, and real-worl
 
 ## 📜 Certifications (In Progress & Completed)
 
-* 🟡 CompTIA A+ (In Progress)
+* 🟡 CompTIA A+
 * 🟡 CompTIA Network+ (Previously attempted)
 * 🟢 Microsoft AZ-900 (Studying)
 
@@ -135,8 +135,8 @@ I learn best by **doing** — labs, home networks, certifications, and real-worl
 
 ## 📫 Connect With Me
 
-* LinkedIn: *(add your link here)*
-* Email: *(optional)*
+* LinkedIn: *(https://www.linkedin.com/in/jose-dejesus)*
+
 
 ---
 
