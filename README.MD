@@ -22,12 +22,6 @@ Building. Securing. Automating.
 
 > jose@matrix:~$ whoami
 Jose De Jesus
-
-> jose@matrix:~$ echo $ROLE
-IT Support | Networking | Cybersecurity
-
-> jose@matrix:~$ sudo access --future
-[ ACCESS GRANTED ]
 ```
 IT Support Technician | Computer Technician | Aspiring Cybersecurity Professional
 
