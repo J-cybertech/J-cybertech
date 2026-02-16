@@ -16,7 +16,7 @@ $ status
 Building. Securing. Automating.
 ```
 # 👋 Hi, I'm J D
-
+```
 01001010 01101111 01110011 01100101
 01000100 01100101 01001010 01100101 01110011 01110101 01110011
 
@@ -28,7 +28,7 @@ IT Support | Networking | Cybersecurity
 
 > jose@matrix:~$ sudo access --future
 [ ACCESS GRANTED ]
-
+```
 IT Support Technician | Computer Technician | Aspiring Cybersecurity Professional
 
 ---
