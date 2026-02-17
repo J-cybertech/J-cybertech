@@ -85,36 +85,6 @@ Currently advancing toward System Administration and Cybersecurity roles with a 
 
 ---
 
-## 💼 Professional Experience
-
-### Computer Technician  
-**Cayuga Centers | 2022 – Present**
-
-- Supported 200+ workstations and IP phones  
-- Troubleshot network, hardware, and software issues  
-- Assisted Senior Network Engineer with infrastructure upgrades  
-- Installed switches across multiple facilities  
-- Contributed to IT documentation and knowledge base  
-- Improved operational efficiency by 30%
-
----
-
-### Freelance IT Support  
-**2015 – Present**
-
-- Built and repaired desktops and laptops  
-- Resolved networking and malware issues  
-- Designed and assembled custom PCs  
-
----
-
-## 🎓 Education
-
-John Jay College of Criminal Justice  
-BA Criminal Justice | Minor: Computer Science  
-
----
-
 ## 🎯 Career Direction
 
 Actively building skills toward:
@@ -123,11 +93,6 @@ Actively building skills toward:
 - Junior System Administrator
 - SOC Analyst (Blue Team)
 - Infrastructure & Security Operations
-
-Currently preparing for:
-- CompTIA A+
-- Network+
-- Security+
 
 ---
 
