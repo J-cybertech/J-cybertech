@@ -46,12 +46,6 @@ Currently advancing toward System Administration and Cybersecurity roles with a 
 - Basic Incident Response Awareness
 - Secure Remote Access Implementation
 
-### 🎫 ITSM & Collaboration Tools
-- Freshdesk
-- Jira Service Desk
-- SharePoint
-- Slack / Zoom / Outlook
-
 ---
 
 ## 🔬 Technical Projects & Homelab
@@ -82,6 +76,8 @@ Currently advancing toward System Administration and Cybersecurity roles with a 
 - Implemented SSL/TLS encryption
 - Configured load balancing and caching
 - Improved web application reliability and performance
+ 
+🔗 https://github.com/J-cybertech/My-Homelab-Journey
 
 ---
 
