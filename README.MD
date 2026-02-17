@@ -1,116 +1,27 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Booting+JoseOS+v1.0...;Loading+kernel+modules...;Initializing+network+stack...;Bypassing+distractions...;Launching+Cybersecurity+Profile...;Access+Granted." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00ADEF&center=true&vCenter=true&width=900&lines=Booting+Kali+GNU%2FLinux...;Loading+systemd...;Starting+OpenSSH+server...;Initializing+NetworkManager...;Mounting+%2Froot%2FJose...;Welcome+Jose+De+Jesus." />
 </p>
-
-
-<div align="center">
-
-<pre>
-<code>
-
-███████╗ ██████╗ ███████╗███████╗    ██████╗ ███████╗         ██╗███████╗███████╗██╗   ██╗███████╗
-██╔════╝██╔═══██╗██╔════╝██╔════╝    ██╔══██╗██╔════╝         ██║██╔════╝██╔════╝██║   ██║██╔════╝
-███████╗██║   ██║███████╗█████╗      ██║  ██║█████╗           ██║█████╗  ███████╗██║   ██║███████╗
-╚════██║██║   ██║╚════██║██╔══╝      ██║  ██║██╔══╝      ██   ██║██╔══╝  ╚════██║██║   ██║╚════██║
-███████║╚██████╔╝███████║███████╗    ██████╔╝███████╗    ╚█████╔╝███████╗███████║╚██████╔╝███████║
-╚══════╝ ╚═════╝ ╚══════╝╚══════╝    ╚═════╝ ╚══════╝     ╚════╝ ╚══════╝╚══════╝ ╚═════╝ ╚══════╝
-
-> initializing profile...
-> loading modules...
-> access granted.
-
-</code>
-</pre>
-
-</div>
-
----
-
-## 👨‍💻 `whoami`
-
-```bash
-Jose De Jesus
-IT Support Technician → Cybersecurity
-United States
-```
-
----
-
-## 🧠 `cat experience.log`
-
-```bash
-+ 2+ Years IT Support & Computer Repair
-+ Windows 10/11 Administration
-+ Active Directory User & Permission Management
-+ Microsoft 365 / Azure Fundamentals
-+ Network Troubleshooting (DNS, DHCP, VLANs, NAT)
-+ UniFi Infrastructure Deployment
-+ Pi-hole DNS Filtering & Analysis
-+ WireGuard VPN Configuration
-+ Log & Event Analysis (Windows Security Logs)
-```
-
----
-
-## 🧪 `ls ~/homelab`
-
-```bash
-network-redesign/
-├── VLAN segmentation
-├── Firewall rule hardening
-├── Secure remote VPN access
-└── DNS-level ad blocking (Pi-hole)
-
-cloud-labs/
-├── Azure fundamentals
-└── Identity & access concepts
-
-security-practice/
-├── Log analysis
-├── System hardening
-└── Least-privilege implementation
-```
-
----
-
-## 🎯 `echo $CAREER_PATH`
-
-```bash
-Goal: Cybersecurity Analyst / SOC
-
-Currently focusing on:
-- CompTIA A+
-- Network+
-- Defensive security fundamentals
-- SIEM & log analysis
-- Cloud security foundations
-```
-
----
-
-## ⚙️ `tech --stack`
-
-![Windows](https://img.shields.io/badge/Windows-Administration-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-0A66C2?style=for-the-badge)
-![Cybersecurity](https://img.shields.io/badge/Security-Blue%20Team-111111?style=for-the-badge)
-
----
-
-## 📡 `system_status`
-
-```bash
-Learning. Building. Breaking. Rebuilding.
-Hardening systems one layer at a time.
-```
-
----
-
-```
-root@future:~# exit
-Session terminated.
-```
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=800&lines=System+Status%3A+Operational;Defensive+Security+Mode%3A+Active;Next+Target%3A+SOC+Role;Stay+Secure." /> </p> ```
-
+┌──(jose㉿kali)-[~]
+└─$ whoami
+networking.sh
+active_directory.ps1
+windows_troubleshooting.md
+dns_filtering_lab.txt
+unifi_config.yaml
+home_lab_notes.md
+┌──(jose㉿kali)-[~/mission]
+└─$ cat roadmap.txt
+[✔] Build Home Lab Environment
+[✔] Strengthen Networking Fundamentals
+[ ] CompTIA A+
+[ ] Network+ (Redemption Arc)
+[ ] Security+
+[ ] SOC Analyst Position
+┌──(jose㉿kali)-[~/status]
+└─$ echo $SYSTEM_STATUS
+SYSTEM: OPERATIONAL
+FIREWALL: ACTIVE
+IDS: MONITORING
+MODE: DEFENSIVE
+TARGET: CYBERSECURITY CAREER
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00ADEF&center=true&vCenter=true&width=800&lines=Scanning+Ports...;Analyzing+Packets...;Hardening+Systems...;Stay+Secure." /> </p> ```
