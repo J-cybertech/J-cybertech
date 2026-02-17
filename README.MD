@@ -40,10 +40,6 @@ TARGET: SOC ANALYST ROLE
 
 ---
 
-# ⚡ If You Still Want a Dragon
-
-Instead of ASCII (which breaks), use a clean Kali dragon image like this:
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120">
 </p>
