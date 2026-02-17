@@ -1,27 +1,66 @@
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00ADEF&center=true&vCenter=true&width=900&lines=Booting+Kali+GNU%2FLinux...;Loading+systemd...;Starting+OpenSSH+server...;Initializing+NetworkManager...;Mounting+%2Froot%2FJose...;Welcome+Jose+De+Jesus." />
-</p>
+<div align="center">
+
+<pre style="color:#00ADEF; background-color:#0b0f19; padding:20px; border-radius:8px; text-align:left; font-family:monospace;">
+
+    .------..------..------..------..------..------.
+    |K.--. ||A.--. ||L.--. ||I.--. ||L.--. ||I.--. |
+    | :/\: || (\/) || :/\: || (\/) || :/\: || (\/) |
+    | :\/: || :\/: || :\/: || :\/: || :\/: || :\/: |
+    `------'`------'`------'`------'`------'`------'
+
+               ┌──────────────────────────────┐
+               │   Offensive Security OS      │
+               └──────────────────────────────┘
+
+kali@kali:~$ sudo boot jose-profile
+[sudo] password for jose: ********
+
+[ OK ] Starting NetworkManager.service
+[ OK ] Starting ssh.service
+[ OK ] Starting security-audit.service
+[ OK ] Mounting /dev/cyberlab
+[ OK ] Initializing firewall rules
+[ OK ] Enabling IDS monitoring
+[ OK ] Jose De Jesus profile loaded successfully
+
+</pre>
+
+</div>
+
+---
+
+```html
+<style>
+.cursor {
+  display:inline-block;
+  width:10px;
+  background-color:#00ADEF;
+  animation: blink 1s infinite;
+}
+@keyframes blink {
+  0% { opacity:1; }
+  50% { opacity:0; }
+  100% { opacity:1; }
+}
+</style>
+
+<pre style="color:#00ADEF; background-color:#0b0f19; padding:20px; border-radius:8px;">
+
 ┌──(jose㉿kali)-[~]
 └─$ whoami
-networking.sh
-active_directory.ps1
-windows_troubleshooting.md
-dns_filtering_lab.txt
-unifi_config.yaml
-home_lab_notes.md
-┌──(jose㉿kali)-[~/mission]
-└─$ cat roadmap.txt
-[✔] Build Home Lab Environment
-[✔] Strengthen Networking Fundamentals
-[ ] CompTIA A+
-[ ] Network+ (Redemption Arc)
-[ ] Security+
-[ ] SOC Analyst Position
+Jose De Jesus
+IT Support Specialist | Computer Technician
+Aspiring Cybersecurity Professional
+CompTIA A+ | Network+ Candidate
+Future SOC / Blue Team Operator
+
 ┌──(jose㉿kali)-[~/status]
 └─$ echo $SYSTEM_STATUS
 SYSTEM: OPERATIONAL
-FIREWALL: ACTIVE
-IDS: MONITORING
-MODE: DEFENSIVE
-TARGET: CYBERSECURITY CAREER
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2500&pause=1000&color=00ADEF&center=true&vCenter=true&width=800&lines=Scanning+Ports...;Analyzing+Packets...;Hardening+Systems...;Stay+Secure." /> </p> ```
+MODE: DEFENSIVE SECURITY
+TARGET: SOC ANALYST ROLE
+
+┌──(jose㉿kali)-[~]
+└─$ <span class="cursor"></span>
+
+</pre>
