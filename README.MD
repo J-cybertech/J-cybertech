@@ -45,6 +45,7 @@ TARGET: SOC ANALYST ROLE
 Instead of ASCII (which breaks), use a clean Kali dragon image like this:
 
 ```markdown
+
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120">
 </p>
