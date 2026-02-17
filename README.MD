@@ -27,19 +27,6 @@ SYSTEM: OPERATIONAL
 MODE: DEFENSIVE SECURITY
 TARGET: SOC ANALYST ROLE
 
-
----
-
-# 🔥 Why This Looks Better
-
-- No giant ASCII art breaking layout
-- Clean spacing
-- Terminal blocks are narrow
-- Works on desktop + mobile
-- Looks professional, not chaotic
-
----
-
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Kali-dragon-icon.svg" width="120">
 </p>
