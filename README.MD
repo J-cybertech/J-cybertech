@@ -3,9 +3,7 @@
 IT Support Specialist | Future System Administrator | Aspiring Cybersecurity Analyst  
 
 📍 New York, United States  
-📧 J.DeJesuz@gmail.com  
 🔗 [LinkedIn](http://www.linkedin.com/in/jose-dejesus)  
-💻 [GitHub](https://github.com/J-cybertech)
 
 ---
 
