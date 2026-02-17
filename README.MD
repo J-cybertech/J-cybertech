@@ -1,5 +1,7 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=900&lines=Booting+JoseOS+v1.0...;Loading+kernel+modules...;Initializing+network+stack...;Bypassing+distractions...;Launching+Cybersecurity+Profile...;Access+Granted." />
+</p>
 
-<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=800&lines=System+Status%3A+Operational;Defensive+Security+Mode%3A+Active;Next+Target%3A+SOC+Role;Stay+Secure." /> </p> ```
 
 <div align="center">
 
@@ -110,3 +112,5 @@ Hardening systems one layer at a time.
 root@future:~# exit
 Session terminated.
 ```
+<p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=00FF41&center=true&vCenter=true&width=800&lines=System+Status%3A+Operational;Defensive+Security+Mode%3A+Active;Next+Target%3A+SOC+Role;Stay+Secure." /> </p> ```
+
