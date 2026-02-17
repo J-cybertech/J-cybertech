@@ -1,5 +1,3 @@
-# Jose De Jesus
-
 IT Support Specialist | Future System Administrator | Aspiring Cybersecurity Analyst  
 
 📍 New York, United States  
