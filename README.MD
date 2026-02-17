@@ -1,160 +1,109 @@
-    _____                                      _______                      _____                                         
-   /     |                                    /       \                    /     |                                        
-   $$$$$ |  ______    _______   ______        $$$$$$$  |  ______           $$$$$ |  ______    _______  __    __   _______ 
-      $$ | /      \  /       | /      \       $$ |  $$ | /      \             $$ | /      \  /       |/  |  /  | /       |
- __   $$ |/$$$$$$  |/$$$$$$$/ /$$$$$$  |      $$ |  $$ |/$$$$$$  |       __   $$ |/$$$$$$  |/$$$$$$$/ $$ |  $$ |/$$$$$$$/ 
-/  |  $$ |$$ |  $$ |$$      \ $$    $$ |      $$ |  $$ |$$    $$ |      /  |  $$ |$$    $$ |$$      \ $$ |  $$ |$$      \ 
-$$ \__$$ |$$ \__$$ | $$$$$$  |$$$$$$$$/       $$ |__$$ |$$$$$$$$/       $$ \__$$ |$$$$$$$$/  $$$$$$  |$$ \__$$ | $$$$$$  |
-$$    $$/ $$    $$/ /     $$/ $$       |      $$    $$/ $$       |      $$    $$/ $$       |/     $$/ $$    $$/ /     $$/ 
- $$$$$$/   $$$$$$/  $$$$$$$/   $$$$$$$/       $$$$$$$/   $$$$$$$/        $$$$$$/   $$$$$$$/ $$$$$$$/   $$$$$$/  $$$$$$$/  
-                                                                                                                          
-                                                                                                                          
-                                                                                                                    
-$ whoami
-Jose De Jesus
+<div align="center">
 
-$ role
+<pre>
+<code>
+
+███████╗ ██████╗ ███████╗███████╗    ██████╗ ███████╗         ██╗███████╗███████╗██╗   ██╗███████╗
+██╔════╝██╔═══██╗██╔════╝██╔════╝    ██╔══██╗██╔════╝         ██║██╔════╝██╔════╝██║   ██║██╔════╝
+███████╗██║   ██║███████╗█████╗      ██║  ██║█████╗           ██║█████╗  ███████╗██║   ██║███████╗
+╚════██║██║   ██║╚════██║██╔══╝      ██║  ██║██╔══╝      ██   ██║██╔══╝  ╚════██║██║   ██║╚════██║
+███████║╚██████╔╝███████║███████╗    ██████╔╝███████╗    ╚█████╔╝███████╗███████║╚██████╔╝███████║
+╚══════╝ ╚═════╝ ╚══════╝╚══════╝    ╚═════╝ ╚══════╝     ╚════╝ ╚══════╝╚══════╝ ╚═════╝ ╚══════╝
+
+> initializing profile...
+> loading modules...
+> access granted.
+
+</code>
+</pre>
+
+</div>
+
+---
+
+## 👨‍💻 `whoami`
+
+```bash
+Jose De Jesus
 IT Support Technician → Cybersecurity
-
-$ status
-Building. Securing. Automating.
+United States
 ```
-# 👋 Hi, I'm J D
+
+---
+
+## 🧠 `cat experience.log`
+
+```bash
++ 2+ Years IT Support & Computer Repair
++ Windows 10/11 Administration
++ Active Directory User & Permission Management
++ Microsoft 365 / Azure Fundamentals
++ Network Troubleshooting (DNS, DHCP, VLANs, NAT)
++ UniFi Infrastructure Deployment
++ Pi-hole DNS Filtering & Analysis
++ WireGuard VPN Configuration
++ Log & Event Analysis (Windows Security Logs)
 ```
-01001010 01101111 01110011 01100101
-01000100 01100101 01001010 01100101 01110011 01110101 01110011
 
-> jose@matrix:~$ whoami
-Jose De Jesus
+---
+
+## 🧪 `ls ~/homelab`
+
+```bash
+network-redesign/
+├── VLAN segmentation
+├── Firewall rule hardening
+├── Secure remote VPN access
+└── DNS-level ad blocking (Pi-hole)
+
+cloud-labs/
+├── Azure fundamentals
+└── Identity & access concepts
+
+security-practice/
+├── Log analysis
+├── System hardening
+└── Least-privilege implementation
 ```
-IT Support Technician | Computer Technician | Aspiring Cybersecurity Professional
 
 ---
 
-## 🧠 About Me
+## 🎯 `echo $CAREER_PATH`
 
-I'm an IT professional with **2+ years of hands-on experience** supporting users, troubleshooting systems, and building small-to-medium networks. I enjoy breaking things down, fixing them, and making systems more secure and reliable. My long-term goal is to transition fully into **cybersecurity**, with a strong foundation in networking, system administration, and cloud fundamentals.
+```bash
+Goal: Cybersecurity Analyst / SOC
 
-I learn best by **doing** — labs, home networks, certifications, and real-world troubleshooting.
-
----
-
-## 🛠️ Technical Skills
-
-### 💻 IT & Systems
-
-* Windows 10/11 administration
-* Active Directory (users, groups, permissions)
-* Microsoft 365 / Azure fundamentals
-* Hardware diagnostics & repair
-* Endpoint troubleshooting
-* Ticketing systems & documentation
-
-### 🌐 Networking
-
-* TCP/IP, DNS, DHCP, NAT
-* VLANs & subnetting
-* Firewall rules & port forwarding
-* UniFi networking (gateways, switches, APs)
-* Pi-hole (DNS filtering & troubleshooting)
-* VPNs (WireGuard)
-
-### 🔐 Security Fundamentals
-
-* Network security concepts
-* Least privilege & access control
-* Logging & event analysis
-* Firewall & IDS/IPS basics
-* Home lab security testing
-
-### ☁️ Cloud & Dev Tools
-
-* Azure fundamentals
-* Git & GitHub
-* PowerShell basics
-* Linux fundamentals
+Currently focusing on:
+- CompTIA A+
+- Network+
+- Defensive security fundamentals
+- SIEM & log analysis
+- Cloud security foundations
+```
 
 ---
 
-## 📜 Certifications (In Progress & Completed)
+## ⚙️ `tech --stack`
 
-* 🟡 CompTIA A+
-* 🟡 CompTIA Network+ (Previously attempted)
-* 🟢 Microsoft AZ-900 (Studying)
-
----
-
-## 🧪 Projects & Labs
-
-### 🔹 Home Network Upgrade & Redesign
-
-* Replaced unsupported consumer router with enterprise-grade UniFi hardware
-* Designed VLANs for isolation and security
-* Implemented Pi-hole for DNS-based ad blocking
-* Created full network diagrams and documentation
-
-### 🔹 Secure Remote Access (WireGuard VPN)
-
-* Configured WireGuard for secure remote camera access
-* Troubleshot firewall and NAT issues
-* Hardened access rules based on geographic access
-
-### 🔹 Pi-hole DNS Troubleshooting
-
-* Diagnosed DNS leakage issues
-* Tested client behavior with multiple upstream DNS providers
-* Improved ad-blocking reliability across mobile and desktop devices
-
-### 🔹 Windows Event Log Analysis
-
-* Investigated logon types and cryptographic events
-* Differentiated between normal system behavior and suspicious activity
+![Windows](https://img.shields.io/badge/Windows-Administration-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-Fundamentals-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-Scripting-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-TCP%2FIP-0A66C2?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Security-Blue%20Team-111111?style=for-the-badge)
 
 ---
 
-## 💼 Work Experience
+## 📡 `system_status`
 
-### IT Support Freelancer
-
-* Provided remote and on-site technical support
-* Diagnosed hardware, software, and network issues
-* Assisted users with system configuration and security best practices
-* Documented issues and resolutions clearly
-
-### Computer Technician
-
-* Repaired desktops and laptops
-* Installed operating systems and drivers
-* Performed upgrades and preventative maintenance
-* Supported small business environments
+```bash
+Learning. Building. Breaking. Rebuilding.
+Hardening systems one layer at a time.
+```
 
 ---
 
-## 🎯 Career Goals
-
-* Transition into a **Cybersecurity Analyst / SOC role**
-* Strengthen skills in:
-
-  * Network defense
-  * SIEM & log analysis
-  * Incident response
-  * Cloud security
-
----
-
-## 🌎 A Bit More About Me
-
-* Based in the U.S.
-* Travel occasionally between the U.S., Florida, and the Dominican Republic
-* Always building, breaking, and rebuilding labs
-
----
-
-## 📫 Connect With Me
-
- [LinkedIn](https://www.linkedin.com/in/jose-dejesus)
-
-
----
-
-> "The best way to learn security is to understand how things break."
+```
+root@future:~# exit
+Session terminated.
+```
