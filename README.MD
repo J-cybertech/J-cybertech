@@ -5,8 +5,6 @@ IT Support Specialist | Future System Administrator | Aspiring Cybersecurity Ana
 
 ---
 
-## 👨‍💻 Professional Profile
-
 IT Support Specialist with 3+ years of hands-on experience supporting enterprise users, troubleshooting hardware/software issues, and maintaining secure IT environments.
 
 Strong foundation in:
@@ -17,6 +15,7 @@ Strong foundation in:
 
 Currently advancing toward System Administration and Cybersecurity roles with a focus on secure infrastructure, identity management, and network defense.
 
+ #- Certifications: CompTIA A+
 ---
 
 ## 🛠 Core Technical Competencies
